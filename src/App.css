@@ -3,8 +3,8 @@
 }
 
 .App-logo {
-  height: 40vmin;
-  pointer-events: none;
+  height: 50vmin;
+  pointer-events: fill;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -20,8 +20,8 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  font-size: calc(35px + 2vmin);
+  color: rgb(58, 245, 202);
 }
 
 .App-link {
